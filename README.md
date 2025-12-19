@@ -10,7 +10,7 @@ A full-stack **User Management Dashboard** with a React (Vite) frontend and a No
   - Sort + Company filter
   - Desktop table + mobile cards
   - Icon actions (View / Edit / Delete) + delete confirmation modal
-  - Total Users badge (from API `meta.total`) [conversation_history:1]
+  - Total Users badge 
 - Add User form (client validations)
 - Edit User form (prefilled)
 - User Details page (read-only)
@@ -28,7 +28,7 @@ A full-stack **User Management Dashboard** with a React (Vite) frontend and a No
   - required fields, email format, geo lat/lng numeric
 - Error format:
 { "success": false, "message": "...", "errors": [] }
-- Handles: invalid id (400), not found (404), validation (400), duplicate email (409), unexpected (500) [conversation_history:1]
+- Handles: invalid id (400), not found (404), validation (400), duplicate email (409), unexpected (500)
 ---
 ## Tech Stack
 **Frontend**
@@ -42,8 +42,8 @@ A full-stack **User Management Dashboard** with a React (Vite) frontend and a No
 - Node.js, Express
 - PostgreSQL
 - Sequelize ORM
-- Joi validation
-- Morgan logging + CORS
+- Validation
+- CORS
 
 ## Project Structure
 ```
