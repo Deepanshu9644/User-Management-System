@@ -148,7 +148,5 @@ Add screenshots here:
   ![Dashboard](https://github.com/user-attachments/assets/e5fb0b69-232a-476d-9657-d2c4ff73448b)
 - User Details
   ![Dashboard](https://github.com/user-attachments/assets/445176c2-8059-4862-99db-24c8696b8fc5)
-  ![Dashboard](https://github.com/user-attachments/assets/13a3e506-12bc-473f-9dc8-ed974d8fc2cd)
-
 - Add User:
    ![Dashboard](https://github.com/user-attachments/assets/13a3e506-12bc-473f-9dc8-ed974d8fc2cd)
