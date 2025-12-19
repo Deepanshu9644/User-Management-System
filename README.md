@@ -144,11 +144,11 @@ Add screenshots here:
 
 - Dashboard:
   ![Dashboard](https://github.com/user-attachments/assets/092a7350-fb50-495c-a11b-63b84a76dc82)
+- Edit User
   ![Dashboard](https://github.com/user-attachments/assets/e5fb0b69-232a-476d-9657-d2c4ff73448b)
+- User Details
   ![Dashboard](https://github.com/user-attachments/assets/445176c2-8059-4862-99db-24c8696b8fc5)
-  ![Dashboard](https://github.com/user-attachments/assets/092a7350-fb50-495c-a11b-63b84a76dc82)
   ![Dashboard](https://github.com/user-attachments/assets/13a3e506-12bc-473f-9dc8-ed974d8fc2cd)
-  ![Dashboard](https://github.com/user-attachments/assets/5f2e4eba-1108-4883-aeba-d47abcd47ce7)
 
 - Add User:
-  ![Add User](./screenshots/add-user.png)
+   ![Dashboard](https://github.com/user-attachments/assets/13a3e506-12bc-473f-9dc8-ed974d8fc2cd)
