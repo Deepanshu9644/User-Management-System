@@ -48,7 +48,8 @@ A full-stack **User Management Dashboard** with a React (Vite) frontend and a No
 - Morgan logging + CORS
 
 ## Project Structure
-
+```
+/
 User Management System/
 ├─ Backend/
 │  ├─ package.json
@@ -105,7 +106,7 @@ User Management System/
       └─ utils/
          ├─ validators.js
          └─ helpers.js
-
+```
 
 
 ---
